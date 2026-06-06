@@ -228,13 +228,6 @@ HR-Analytics-Dashboard/
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-The dataset (`HR-Employee-Attrition.csv`) is sourced from the publicly available **IBM HR Analytics dataset** on Kaggle and is used here for educational and portfolio purposes only.
-
----
 
 ## 👤 Author
 
