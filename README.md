@@ -231,7 +231,7 @@ HR-Analytics-Dashboard/
 
 ## 👤 Author
 
-**mOHAMMED Taqi**
+**MOHAMMED Taqi**
 
 
 ---
